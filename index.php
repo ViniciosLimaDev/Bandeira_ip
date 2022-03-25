@@ -18,7 +18,10 @@
             <div class="txalc">
                 <b id="cd">...</b><br />
                 <br />
-                <img/>
+                <div class="img">
+                    
+                </div>
+               
             </div>
 
         </div>
